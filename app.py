@@ -10,3 +10,9 @@ ip =st.text_input('Enter your text :')
 op = model_nb.perfect([ip])
 if st.button('PREDICT'):
   st.title(op[0])
+  
+     
+    
+          
+  
+  
